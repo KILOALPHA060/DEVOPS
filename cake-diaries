@@ -1,0 +1,4 @@
+mkdir cake-diaries && cd cake-diaries
+git init
+echo "# Cake Diaries" > README.md
+mkdir client server
